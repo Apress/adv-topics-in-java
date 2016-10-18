@@ -1,0 +1,20 @@
+Invalid vote: 8
+Invalid vote: 9
+
+Number of voters: 30
+Number of valid votes: 28
+Number of spoilt votes: 2
+
+Candidate          Score
+
+Nirvan Singh         4
+Denise Duncan        2
+Avasa Tawari         6
+Torrique Granger     4
+Saskia Kalicharan    6
+Dawren Greenidge     3
+Jordon Cato          3
+
+The winner(s)
+   Avasa Tawari
+   Saskia Kalicharan

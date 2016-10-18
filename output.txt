@@ -1,0 +1,32 @@
+
+Words             Frequency
+
+a                     1
+achieve               1
+and                   2
+avoid                 1
+be                    3
+believe               1
+but                   1
+can                   2
+conceive              1
+criticism             1
+do                    1
+is                    1
+it                    1
+mind                  1
+not                   1
+nothing               3
+of                    1
+one                   1
+only                  1
+rather                1
+say                   1
+strive                1
+success               1
+the                   1
+there                 1
+to                    3
+value                 1
+way                   1
+whatever              1
